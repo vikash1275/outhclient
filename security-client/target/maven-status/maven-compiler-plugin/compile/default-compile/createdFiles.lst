@@ -1,0 +1,3 @@
+com\spring\security\SecurityApplication.class
+com\spring\security\WebController.class
+com\spring\security\SecurityConfiguration.class
